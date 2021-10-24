@@ -3,4 +3,5 @@
 """
 numero1 = int(input("Digite um número: "))
 numero2 = int(input("Digite outro número: "))
-print(f"A soma dos números é {numero1 + numero2}")
+soma = numero1 + numero2
+print(f"A soma dos números {numero1} e {numero2} é {soma}")
